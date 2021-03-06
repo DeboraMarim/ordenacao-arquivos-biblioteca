@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1614975206 source:d:\1afaculdade\pod\atv2\insertion&bubblesort2\biblio.c
+	"biblio.h"
+
+1614974368 d:\1afaculdade\pod\atv2\insertion&bubblesort2\biblio.h
+
+1614982841 source:d:\1afaculdade\pod\atv2\insertion&bubblesort2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+	<time.h>
+
+1615002361 source:d:\1afaculdade\pod\atv3\insertion&bubblesort2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+	<time.h>
+
+1615002389 d:\1afaculdade\pod\atv3\insertion&bubblesort2\biblio.h
+
+1615002404 source:d:\1afaculdade\pod\atv3\insertion&bubblesort2\biblio.c
+	"biblio.h"
+
